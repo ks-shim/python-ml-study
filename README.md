@@ -1,1 +1,1 @@
-# study
+# PYTHON : machine learning study
