@@ -17,4 +17,18 @@
         * 불평등 지수를 나타내는 계수
         * 0이 가장 평등, 1이 불평등
         * 1일 수록 균일함
-    
+  
+* Ensemble (앙상블)  
+    * Voting
+        * 서로 다른 알고리즘을 가진 모델 결합
+        * Hard Voting
+            * 다수결
+        * Soft Voting
+            * 확률 평균
+    * Bagging
+        * 같은 유형의 알고리즘, 그러나 데이터 샘플링이 상이한 모델 결합
+        * Random Forest
+    * Boosting
+        * 순차 학습
+        * 전 모델의 예측이 틀린 데이터는 Weight를 부여하여 후 모델의 학습 진행
+        * 그래디언트 부스트, XGBoost, LightGBM
