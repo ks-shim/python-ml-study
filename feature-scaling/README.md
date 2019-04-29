@@ -1,5 +1,6 @@
 # FEATURE SCALING
 
+* Feature에 0이나 Null값이 많을 경우, Scaling 필요
 * 표준화(Standardization)
     * 평균이 0이고 분산이 1인 가우시안 정규 분포를 가진 값으로 변환
 * 정규화(Normalization)
