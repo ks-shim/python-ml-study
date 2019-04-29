@@ -12,3 +12,6 @@
     * TP / (FN + TP)
     * Positive를 Negative로 판단하면 큰 영향이 발생하는 곳에서 중요 지표로 사용
 * Precision과 Recall은 Trade-off 관계
+* F1 Score
+    * Precision과 Recall을 결합한 지표
+* ROC 곡선과 AUC
